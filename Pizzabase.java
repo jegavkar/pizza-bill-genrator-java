@@ -72,9 +72,7 @@ public class Pizzabase
 		 System.out.println("Price of VegPizza is ===>300");
 		 System.out.println("Price of NonVegPizza is ===>400");
 		 System.out.println("ENTER A CHOISE FOR VEG CLICK 1 AND FOR NONVEG  CLICK 2 ===>");
-		//	Scanner sc=new Scanner(System.in);
 		Pizzabase obj=new Pizzabase();
-		//obj.choise();
 		obj.extra();
 		}
 	}
